@@ -1,3 +1,5 @@
+//spark databox streaming project
+
 import org.apache.kafka.common.serialization.StringDeserializer
 import org.apache.spark.sql.{DataFrame, SaveMode, SparkSession}
 import org.apache.spark.streaming.kafka010._
