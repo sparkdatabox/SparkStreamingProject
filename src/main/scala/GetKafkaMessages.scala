@@ -24,8 +24,6 @@ object GetKafkaMessages {
 
     val ssc = new StreamingContext(spark.sparkContext, Seconds(5))
 
-    ssc.checkpoint("""/user/sparkdatabox/checkpoint""")
-
     val kafkaParams = Map(
       "bootstrap.servers" -> "wn01.itversity.com:6667,wn02.itversity.com:6667",
       "key.deserializer" -> classOf[StringDeserializer],
