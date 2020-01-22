@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="fa1f0a5d-0737-4e76-9141-cb6953c0e504" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1VaaRBaGy5rI9qlLTG5iUBSkJcG" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+  </component>
+  <component name="RunManager" selected="sbt Task.BuildGetKafkaMessages">
+    <configuration name="GetKafkaMessages" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="GetKafkaMessages" />
+      <module name="GetKafkaMessages" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="BuildGetKafkaMessages" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="package" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="SbtRunConfiguration" factoryName="sbt Task" show_console_on_std_err="false" show_console_on_std_out="false">
+      <option name="allowRunningInParallel" value="false" />
+      <option name="tasks" value="package" />
+      <option name="useSbtShell" value="true" />
+      <option name="vmparams" value="-Xms512M -Xmx1024M -Xss1M -XX:+CMSClassUnloadingEnabled" />
+      <option name="workingDir" value="$PROJECT_DIR$" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.GetKafkaMessages" />
+      <item itemvalue="sbt Task.BuildGetKafkaMessages" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.GetKafkaMessages" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="GetKafkaMessages" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="getkafkamessages [file:/Users/sparkdatabox/IdeaProjects/GetKafkaMessages/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="GetKafkaMessages-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$/build.sbt" value="1197973932" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="2802479214" />
+      </map>
+    </option>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="fa1f0a5d-0737-4e76-9141-cb6953c0e504" name="Default Changelist" comment="" />
+      <created>1577493648624</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1577493648624</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="488" y="249" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1577495824518">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state x="488" y="249" key="#com.intellij.execution.impl.EditConfigurationsDialog/2048.-75.1884.1057/0.23.2048.1129@0.23.2048.1129" timestamp="1577495824518" />
+    <state width="2006" height="220" key="GridCell.Tab.0.bottom" timestamp="1577498100150">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2006" height="220" key="GridCell.Tab.0.bottom/2048.-75.1884.1057/0.23.2048.1129@0.23.2048.1129" timestamp="1577498100150" />
+    <state width="2006" height="220" key="GridCell.Tab.0.center" timestamp="1577498100149">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2006" height="220" key="GridCell.Tab.0.center/2048.-75.1884.1057/0.23.2048.1129@0.23.2048.1129" timestamp="1577498100149" />
+    <state width="2006" height="220" key="GridCell.Tab.0.left" timestamp="1577498100148">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2006" height="220" key="GridCell.Tab.0.left/2048.-75.1884.1057/0.23.2048.1129@0.23.2048.1129" timestamp="1577498100148" />
+    <state width="2006" height="220" key="GridCell.Tab.0.right" timestamp="1577498100150">
+      <screen x="0" y="23" width="2048" height="1129" />
+    </state>
+    <state width="2006" height="220" key="GridCell.Tab.0.right/2048.-75.1884.1057/0.23.2048.1129@0.23.2048.1129" timestamp="1577498100150" />
+  </component>
+</project>
